@@ -1,0 +1,21 @@
+--------LAYOUT OF SOLIDITY------
+we are trying these codes on Remix IDE.
+we have different type of comments ;
+single line commenets //
+multiline comments /*-----*/
+we have anothe type of comment know as "netspec", declared using "///" or "/**-----*/ they can be used just above any function to decribe 
+the functionality.
+// in this program we are simply calculating the area and parameter of rectangle. we are passing the argument to the function and getting 
+the result of it. But in this case we are not using the function modifier as "public" so it will not show the results derectly on the run 
+screen. to check out the details of result we have to click on to the "details" bbutton on the remix transaction, script screen 
+contract calculator {
+    uint public s; // used to display result on run screen
+    uint public p;
+    //function rectangle (uint h, uint w) returns (uint s, uint p) {
+      function rectangle (uint h, uint w) {
+      s= h*w;
+      p =2*(w+h);
+     
+     
+    }
+}
