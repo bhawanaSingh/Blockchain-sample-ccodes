@@ -1,0 +1,32 @@
+-----------------STRUCTURE OF SOLIDITY PROGRAMS--------------------
+contract are simmilar to classes in java language. It contains state variables, functions modifier, enum type , structure and event type.
+it also has inheritance property to inherit other class functons and variables.
+pragma solidity ^0.4.0;
+contract auction {
+    address public seller;
+    modifier checkseller() {
+        require(msg.sender == seller);
+        _;
+    }
+    event highbid(address bidder, uint amount);
+   
+    function bid() public payable {
+        highbid(msg.sender, msg.value);
+        
+    }
+}
+in this we describing how modifier and events are created and used in the solidity.
+arithmetic operation : ** -> exponentiation, << left shift, >> right shift
+
+Function types come in two flavours - internal and external functions:
+
+Internal functions can only be called inside the current contract (more specifically, 
+inside the current code unit, which also includes internal library functions and inherited functions)
+because they cannot be executed outside of the context of the current contract. Calling an internal 
+function is realized by jumping to its entry label, just like when calling a function of the current contract internally.
+
+External functions consist of an address and a function signature and they can be passed via and returned from external function calls.
+
+function (<parameter types>) {internal|external} [pure|constant|view|payable] [returns (<return types>)]
+if return is not retuing anything them omit the returns function.
+
