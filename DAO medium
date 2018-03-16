@@ -37,7 +37,30 @@
    system that are designed to create a self organizing system. good example of buying things 
    online one these day it includes feedback system provided by buyer-seller, that contain peer to peer
    interaction 
-   
-  
-  v
+    smartcontract is a gernal purpose code that run on every computer in the network by sendin ether 
+    to the creator.DAO codes the rules and eleminate the documents and paper work and create structure
+    with decentralized control.
+    
+    how it works:
+    * A group of people write the smart contract for any organization. it includes inital funding 
+    period where people come together to fund DAO by purchasing token that show the ownership also
+    know as crowdfunding or ICO to provide resources they need. when funding period is over, now its 
+    time to operate DAO. people make proposal to the DAO how to spend money and the members who have 
+    bought they can vote to approve these proposal. Remember, donot make token into equity share, it
+    is more likely to provide voting rights but not exactly the ownership. DAO is a software running
+    on etherum network  and not owned by a single one. the fist DAO is Bitcoin, which is governed by
+    consenses algorithm and the rest DAO's have been launched on etherum platform. 
+    the DAO was launch on 30th April, with the critria of 28 days funding window.whatever the reason 
+    behind it,DAO was popular and raised over $100 million by 15th may and by the ending of funding
+    window it raised over $150 million from more then 11,000 members. it raised beyond the creator 
+    was expecting for.
+    when the crowd funding is over, the first discussion was the valnurability of code before
+    funding the proposals. On 12th june Stephan Tual, one of the DAO creator has announced about 
+    "recursive call bug" found in software but he also said it does not effect DAO fund. till than, 
+    more than 50 project proposal were waiting for DAO's token holder to vote on them. 
+    Everyone who writes a smart contract knows that if it can move a large amount of cash it will
+    be subject to attack(copy). suddendly, while programmers were working to fix the bug and 
+    other problems, an unknow attacker publish the "child DAO" having same stucture as the original
+    DAO and start draning DAO's ether collected from the sale of its token. 
+    
   
