@@ -49,10 +49,13 @@
     bought they can vote to approve these proposal. Remember, donot make token into equity share, it
     is more likely to provide voting rights but not exactly the ownership. DAO is a software running
     on etherum network  and not owned by a single one. the fist DAO is Bitcoin, which is governed by
-    consenses algorithm and the rest DAO's have been launched on etherum platform. 
+    consenses algorithm and the rest DAO's have been launched on etherum platform.
+    "The DAO" is the name of a particular DAO,conceived of and programmed by the team behind German
+    startup Slock.it. It is a company building "smart locks" that let people share their things 
+    in a decentralized version of Airbnb. 
     the DAO was launch on 30th April, with the critria of 28 days funding window.whatever the reason 
     behind it,DAO was popular and raised over $100 million by 15th may and by the ending of funding
-    window it raised over $150 million from more then 11,000 members. it raised beyond the creator 
+    window it raised over $150 million from more than 11,000 members. it raised beyond the creator 
     was expecting for.
     when the crowd funding is over, the first discussion was the valnurability of code before
     funding the proposals. On 12th june Stephan Tual, one of the DAO creator has announced about 
@@ -61,6 +64,13 @@
     Everyone who writes a smart contract knows that if it can move a large amount of cash it will
     be subject to attack(copy). suddendly, while programmers were working to fix the bug and 
     other problems, an unknow attacker publish the "child DAO" having same stucture as the original
-    DAO and start draning DAO's ether collected from the sale of its token. 
+    DAO and start draning DAO's ether collected from the sale of its token. later,Stephan Tual announced
+    that if the hacker tries to sell any of the stolen ether in cryprocurrency market, the system 
+    will falg it.
+    
+    The DAO failure created 
+    the negative imapct on ethereum network as well as on cryptocrrency.
+    the founder of ethereum network, vitalik buterin took a decision to install a "switch" in basic 
+    ethereum code which prevent moving any ethers from DAO to its childern. this is called as soft-forking. 
     
   
